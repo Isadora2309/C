@@ -1,4 +1,4 @@
-<h1>** Lista Ligada** </h1>
+<h1> Lista Dupla Linkada </h1>
 <h2> O que é? </h2>
 <p> Ou *Doubly Linked List* é uma variação de lista ligada ("linkada") na qual a navegação é possível de ambas as maneiras, tanto para frente quanto para trás facilmente em comparação com a *Single Linked List*. 
 
